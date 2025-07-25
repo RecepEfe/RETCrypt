@@ -19,11 +19,15 @@ RETCrypt, Auralis takımının Teknofest Projesidir. Bu proje geleneksel simetri
    ```sh
    git clone https://github.com/RecepEfe/RETCrypt.git
    ```
-3. Kodu derleyin
+3. Dizine girin
+   ```sh
+   cd RETCrypt/
+   ```
+4. Kodu derleyin
    ```sh
    cargo build
    ```
-4. Kodu çalıştırın
+5. Derlenmiş kodu çalıştırın
    ```sh
    cargo run
    ```
