@@ -13,8 +13,17 @@ RETCrypt, Auralis takımının Teknofest Projesidir. Bu proje geleneksel simetri
 
 > [!NOTE]
 > Rust programlama dili ve cargo yüklenmelidir
-# Kurulum ve çalıştırma
-* git clone https://github.com/RecepEfe/RETCrypt
-* cd RETCrypt
-* cargo build
-* cargo run
+### Kurulum
+1. İşletim sisteminize göre rust dilini kurun
+2. Repoyu kopyalayın
+   ```sh
+   git clone https://github.com/RecepEfe/RETCrypt.git
+   ```
+3. Kodu derleyin
+   ```sh
+   cargo build
+   ```
+4. Kodu çalıştırın
+   ```sh
+   cargo run
+   ```
